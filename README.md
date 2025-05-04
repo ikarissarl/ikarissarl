@@ -138,17 +138,6 @@
 
 </body>
 </html>
-
-
-Le site web a été mis à jour avec :
-
-Le logo initial (à nommer logo1.png dans ton dossier).
-
-La présentation complète de l’entreprise.
-
-Les coordonnées complètes et informations légales.
-
-
 Souhaites-tu que j’ajoute une section galerie ou des liens vers les réseaux sociaux ensuite ?
 
 
